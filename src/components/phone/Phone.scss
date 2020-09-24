@@ -1,0 +1,23 @@
+.phone{
+    margin-left: 15px;
+    margin-right: 15px;
+    img {
+        margin-top: 15px;
+        width: 150px;
+        height: 150px;
+      }
+    .price_button{
+        width: 150;
+        display: flex;
+        position: relative;
+        margin-top: 3px;
+        .button{
+            background-color:  #40a9ff;
+            color: white;
+            position: absolute;
+            left: 70px;
+            top: -2px;
+        }
+    }
+
+}
